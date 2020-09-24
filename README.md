@@ -2,7 +2,7 @@
 Program that reads in text files and outputs name, email, and phone number.
 
 HOW TO USE:
-1. Place any card files into the "Business Card Parser" folder. These files must be .txt files.
+1. Place any "card" files to be parsed into the "Business Card Parser-master" folder. These files must be .txt files.
 2. Run the program in Command Prompt by navigating to the folder and then typing "java -jar "Business Card Parser.jar"
 3. The pop-up window will ask you to input the file name.
    The format should be as following: "filename.txt" not including the quotes.
